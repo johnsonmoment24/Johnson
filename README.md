@@ -6,10 +6,6 @@
 				</tr>
 				<tr>
 					<td>更新时间：</td>
-					<td align="left">2018年3月5日 20点16分</td>
+					<td align="left">March 6, 2018 21:42</td>
 				</tr>
-				<!--<tr>
-					<td>当前时间</td>
-					<td><font color="#33FFFF"><span id="nowDateTimeSpan"></span></font></td>
-				</tr>-->
 			</table>
