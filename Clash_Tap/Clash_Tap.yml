@@ -4,9 +4,13 @@ dns:
   listen: 0.0.0.0:53
   enhanced-mode: fake-ip
   nameserver:
-  - 114.114.114.114
-  - 223.5.5.5
   - 192.168.1.1
+  - 114.114.114.114
+  #DNS From tx
+  - 119.29.29.29
+  #DNS From alidns
+  - 223.5.5.5
+  - 223.6.6.6
   # DNS From rixCloud
   - tcp://116.62.218.19:53
   - tcp://139.196.72.143:53
