@@ -1,6 +1,6 @@
 dns:
   enable: true
-  ipv6: false
+  ipv6: true
   listen: 0.0.0.0:53
   enhanced-mode: fake-ip
   nameserver:
@@ -28,3 +28,5 @@ dns:
   - tcp://208.67.220.220:443
   - tls://1.0.0.1:853
   - tls://1.1.1.1:853
+experimental:
+  interface-name: 以太网 # WLAN 为物理网卡名
