@@ -1,1 +1,1 @@
-{"Version":"1.0.1","ReleaseTime":"2020年3月19日 02:11","Context":"1、优化并整理步骤\n2、修复有一些错误的正则表达式\n3、修复Surge、Clash格式","URL":"dede3696659049c5acf8b7425405797c"}
+{"Version":"1.0.2","ReleaseTime":"2020年3月21日 01:09","Context":"1、更新Clash配置格式\n2、修复转换Clash v2Ray格式后中间有空行的问题\n3、lhie1策略组添加PornHub","URL":"23c561f15ad84fe7bda584b716838a9c"}
