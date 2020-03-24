@@ -1,1 +1,1 @@
-{"Version":"1.0.2","ReleaseTime":"2020年3月21日 01:09","Context":"1、更新Clash配置格式\n2、修复转换Clash v2Ray格式后中间有空行的问题\n3、lhie1策略组添加PornHub","URL":"23c561f15ad84fe7bda584b716838a9c"}
+{"Version":"1.0.3","ReleaseTime":"2020年3月24日 20:08","Context":"1、修复Clash配置的lhie1策略组出现神机Hijacking的问题\n2、简化节点转换Clash格式\n3、修正转换Clash格式的正则表达式，避免包含匹配了密码中有类型","URL":"73469e596599426982d1487339e9635f"}
