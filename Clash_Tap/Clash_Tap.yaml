@@ -15,5 +15,8 @@ dns:
     - tls://dns.google:853
   fallback-filter:
     geoip: true
+tun:
+  enable: true
 experimental:
+  ignore-resolve-fail: true
   interface-name: 以太网 # WLAN 为物理网卡名
