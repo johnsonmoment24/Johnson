@@ -1,1 +1,1 @@
-{"Version":"1.0.3","ReleaseTime":"2020年3月24日 20:08","Context":"1、修复Clash配置的lhie1策略组出现神机Hijacking的问题\n2、简化节点转换Clash格式\n3、修正转换Clash格式的正则表达式，避免包含匹配了密码中有类型","URL":"73469e596599426982d1487339e9635f"}
+{"Version":"1.0.4","ReleaseTime":"2020年3月30日 15:05","Context":"1、删除AsianTV和GlobalTV策略组\n2、新增词典中部分常用的策略组（有需要策略组可联系我TG）\n3、新增反馈TG联系我","URL":"10ac7f012bc344d1b5e5f23d075a9e05"}
