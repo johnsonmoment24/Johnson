@@ -1,1 +1,1 @@
-{"Version":"1.0.5","ReleaseTime":"2020年4月6日 13:21","Context":"1、Clash TUN\/TAP默认添加配置文件改为自定义","URL":"168aae23bf824cf494fe6241bf6d5ff1"}
+{"Version":"1.0.6","ReleaseTime":"2020年4月7日 12:19","Context":"1、删除URL reject.conf(因lhie1大佬把此conf合并到URL rewrite.conf)\n2、新增SSID自定义","URL":"b439ccada0964f6b92dbb7b7245747a2"}
