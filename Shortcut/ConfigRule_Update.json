@@ -1,1 +1,1 @@
-{"Version":"1.0.6","ReleaseTime":"2020年4月7日 12:19","Context":"1、删除URL reject.conf(因lhie1大佬把此conf合并到URL rewrite.conf)\n2、新增SSID自定义","URL":"b439ccada0964f6b92dbb7b7245747a2"}
+{"Version":"1.0.7","ReleaseTime":"2020年4月9日 01:17","Context":"lhie1配置文件添加本地DNS映射","URL":"8af440cc80904517a713b289f6055fb8"}
