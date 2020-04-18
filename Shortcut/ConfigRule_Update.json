@@ -1,1 +1,1 @@
-{"Version":"1.0.8","ReleaseTime":"2020年4月17日 19:56","Context":"1、修复转换Clash时候规则出现没有策略组名称","URL":"e92502c28afd4e3987702394ac8e9b67"}
+{"Version":"1.0.9","ReleaseTime":"2020年4月19日 01:44","Context":"由于Surge4商店版已更新支持Module模块，所以删除hostname和script自定义框，提升效率","URL":"70e63759bcad4c5abe45a85fa2c8cf05"}
