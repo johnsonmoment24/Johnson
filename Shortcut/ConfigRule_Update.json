@@ -1,1 +1,1 @@
-{"Version":"1.0.9","ReleaseTime":"2020年4月19日 01:44","Context":"由于Surge4商店版已更新支持Module模块，所以删除hostname和script自定义框，提升效率","URL":"70e63759bcad4c5abe45a85fa2c8cf05"}
+{"Version":"1.1.0","ReleaseTime":"2020年4月28日 13:58","Context":"1，新增两个选择Clash新旧字段(后期可能会删除旧字段的选择)\n2、Fix bug","URL":"f413dbc521b14ab6b38a39218aaee184"}
