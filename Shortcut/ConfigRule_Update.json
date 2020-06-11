@@ -1,1 +1,1 @@
-{"Version":"1.1.4","ReleaseTime":"2020年5月18日 22:39","Context":"1、删除Clash的TAP\/TUN的自定义框（CFW新版本有mixin模式）\n2、删除Clash旧字段，改成新字段","URL":"4be849d1651e471997806fe82e0558bb"}
+{"Version":"1.1.5","ReleaseTime":"2020年6月11日 10:16","Context":"已删除捷径的base64编码+密码经常会出错","URL":"312c6d274fa74ff08798ece4ab66fecb"}
