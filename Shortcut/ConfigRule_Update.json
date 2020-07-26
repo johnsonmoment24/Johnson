@@ -1,1 +1,1 @@
-{"Version":"1.1.6","ReleaseTime":"2020年7月26日 18:53","Context":"1、Surge的模块支持SSID，已删除SSID文本框\n2、修复某些订阅\/托管地址无法获取节点\n3、简化捷径步骤","URL":"fbac06f2fba4432c875965e38cecf317"}
+{"Version":"1.1.7","ReleaseTime":"2020年7月26日 20:02","Context":"修复上一个版本订阅匹配的问题","URL":"b51ad67e1c7f40829cb3d0e8717f1454"}
