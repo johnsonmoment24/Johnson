@@ -1,1 +1,1 @@
-{"Version":"1.1.5","ReleaseTime":"2020年6月11日 10:16","Context":"已删除捷径的base64编码+密码经常会出错","URL":"312c6d274fa74ff08798ece4ab66fecb"}
+{"Version":"1.1.6","ReleaseTime":"2020年7月26日 18:53","Context":"1、Surge的模块支持SSID，已删除SSID文本框\n2、修复某些订阅\/托管地址无法获取节点\n3、简化捷径步骤","URL":"fbac06f2fba4432c875965e38cecf317"}
